@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0383-ransom-note) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Counting
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3945-digit-frequency-score) |
+## Array
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
