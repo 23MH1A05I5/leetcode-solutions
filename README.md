@@ -25,8 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3945-digit-frequency-score](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
