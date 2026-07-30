@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Counting
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3668-restore-finishing-order](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
