@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3668-restore-finishing-order](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
