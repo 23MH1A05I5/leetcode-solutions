@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3945-digit-frequency-score](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -138,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
