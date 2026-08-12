@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3945-digit-frequency-score](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -156,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
