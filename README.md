@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
