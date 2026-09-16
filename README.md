@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2390-removing-stars-from-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2000-reverse-prefix-of-word](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
