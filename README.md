@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1441-build-an-array-with-stack-operations](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2000-reverse-prefix-of-word](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0001-two-sum) |
 | [0832-flipping-an-image](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1441-build-an-array-with-stack-operations](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
