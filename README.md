@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0832-flipping-an-image](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
