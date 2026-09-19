@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-construct-smallest-number-from-di-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2390-removing-stars-from-a-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Math
 |  |
 | ------- |
