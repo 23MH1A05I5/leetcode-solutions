@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3945-digit-frequency-score](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3668-restore-finishing-order](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
