@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3668-restore-finishing-order) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
