@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -256,5 +257,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
