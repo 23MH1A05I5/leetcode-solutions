@@ -265,14 +265,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0938-range-sum-of-bst](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0938-range-sum-of-bst](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0938-range-sum-of-bst](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
