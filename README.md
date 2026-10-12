@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0680-valid-palindrome-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0001-two-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0832-flipping-an-image](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0832-flipping-an-image) |
