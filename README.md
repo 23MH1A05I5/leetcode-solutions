@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0938-range-sum-of-bst](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0938-range-sum-of-bst](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
