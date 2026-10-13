@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0832-flipping-an-image](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/23MH1A05I5/leetcode-solutions/tree/master/1816-truncate-sentence) |
